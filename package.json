@@ -1,0 +1,16 @@
+{
+  "name": "luckyplay-kenya",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LuckyPlay Kenya demo website with a server-side Safaricom Daraja B2C sandbox scaffold",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
